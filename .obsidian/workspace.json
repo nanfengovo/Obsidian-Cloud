@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "b9856d5a9972f10d",
+    "type": "split",
+    "children": [
+      {
+        "id": "dacc4c48acea70d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4309bc27e3865134",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大模型/ollama/安装和使用.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b7e0d62e3b4a161",
+    "type": "split",
+    "children": [
+      {
+        "id": "db5cab3cf49b172a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46b103b5feb639dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "07e15f72389ed63a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "597f4b4181e731f2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "4fdc1d957e0bad11",
+            "type": "leaf",
+            "state": {
+              "type": "langr-search-panel",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "26fe6622c1f36662",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b04d005dfc895e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47a7fdd99fcbdaf4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "大模型/ollama/安装和使用.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "afafdfe883437db4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "大模型/ollama/安装和使用.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a072b956db03eee1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e8f11e2c88e85f20",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "大模型/ollama/安装和使用.md"
+              }
+            }
+          },
+          {
+            "id": "dfed9affaf6ba6a6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f8ad49da882f89af",
+            "type": "leaf",
+            "state": {
+              "type": "langr-stat",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "media-extended:Open media": false,
+      "obsidian-language-learner:打开查词面板": false,
+      "obsidian-language-learner:打开新词面板": false,
+      "obsidian-language-learner:打开统计": false,
+      "obsidian-language-learner:单词列表": false,
+      "obsidian42-brat:BRAT": false,
+      "i18n:I18N": false
+    }
+  },
+  "active": "4309bc27e3865134",
+  "lastOpenFiles": [
+    "GitHub开源项目/工具类/Docker/Docker 入门教程.md",
+    "面试题/后端面试题/C Shrap/DotNet常见的20个面试题.md",
+    "大模型/ollama/安装和使用.md",
+    "面试题/后端面试题/C Shrap",
+    "面试题/产品面试题",
+    "面试题/系统运维面试题",
+    "面试题/后端面试题",
+    "面试题/前端面试题",
+    "面试题",
+    "GitHub开源项目/学习资料/技术学习项目.md",
+    "VSCode/前端/前端框架/Vben-Admin.md",
+    "GitHub开源项目/美化/搭建个人博客/10分钟搞定！Hexo个人博客搭建全攻略 + 最美Fluid主题配置.md",
+    "GitHub开源项目/美化/GitHub/超详细的 GitHub 个人主页美化教程.md",
+    "GitHub开源项目/美化/搭建个人博客",
+    "GitHub开源项目/学习资料/Git/Git笔记（一）-- 基本概念.md",
+    "GitHub开源项目/美化/GitHub",
+    "GitHub开源项目/美化",
+    "GitHub开源项目/学习资料/Git",
+    "VSCode/前端/前端框架/vue3-element-admin.md",
+    "Obsodoan/插件.md",
+    "Obsodoan/搭建个人的知识库/Dataview和Tasks日历任务管理.md",
+    "大模型/本地部署多款大模型软件.md",
+    "大模型/本地大模型运行工具.md",
+    "VSCode/VSCode 插件/一个开源项目解决VSCode所有插件难题.md",
+    "VSCode/VSCode 插件/VSCode 插件.md",
+    "GitHub开源项目/后端框架/DotNET优秀项目和框架.md",
+    "VSCode/前端/前端工具/8 个面向前端方向的 AI 编程助手.md",
+    "VSCode/前端/知识点/HTML+CSS实现侧边栏导航效果.md",
+    "VSCode/前端/未命名.md",
+    "GitHub开源项目/工具类/Docker/docker desktop是啥.md",
+    "GitHub开源项目/工具类/Docker/Docker快速上手.md",
+    "VSCode/前端/前端框架/基于Vue3.0+ElementPlus后台精简模板.md",
+    "VSCode/前端/前端框架/5 个超火超好看的 Vue3 后台管理模版.md",
+    "VSCode/前端/前端框架/Vue后台管理系统模板.md",
+    "VSCode/前端/前端框架/16套vue3后台管理模版.md",
+    "VSCode/前端/前端框架/vue-admin.md",
+    "图片/Pasted image 20241008105431.png",
+    "图片/Pasted image 20241006100243.png",
+    "通过构建自己的机器人（启用 ChatGPT）来学习 C_ 基础知识（中文字幕）PT35.6S.webp",
+    "图片/Pasted image 20241006102532.png",
+    "图片/Pasted image 20241006101343.png",
+    "图片/Pasted image 20241006101217.png",
+    "图片/Pasted image 20241006101006.png",
+    "图片/Pasted image 20241006100551.png",
+    "未命名.canvas"
+  ]
+}
